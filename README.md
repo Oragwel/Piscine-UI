@@ -134,7 +134,7 @@ Each UI challenge uses its unique palette, derived from the moodboard color sche
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://learn.zone01kisumu.ke/git/oragwelr/colors-and-moodboard.git
+   git clone git clone https://github.com/Oragwel/Piscine-UI.git or Download as a zip file
    ```
 
 2. **Open Figma Files**:
