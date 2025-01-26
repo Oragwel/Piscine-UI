@@ -72,7 +72,7 @@ This project focuses on implementing the **Atomic Design methodology** to create
    ```bash
    git clone https://github.com/Oragwel/Piscine-UI.git
    ```
-2. Navigate to the `atomic design` folder: 
+2. Navigate to the `atomic-design` folder: 
    ```
 cd `atomic-design
    ```
